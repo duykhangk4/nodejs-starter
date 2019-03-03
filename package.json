@@ -1,0 +1,23 @@
+{
+  "name": "khangheh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duykhangk4/nodejs-starter.git"
+  },
+  "author": "duykhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duykhangk4/nodejs-starter/issues"
+  },
+  "homepage": "https://github.com/duykhangk4/nodejs-starter#readme",
+  "dependencies": {
+    "angular": "^1.7.7",
+    "jquery": "^3.3.1"
+  }
+}
